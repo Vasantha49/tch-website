@@ -14,7 +14,6 @@
       }
     }
   ],
-
   "former": [
     {
       "id": 101,
@@ -24,7 +23,6 @@
       "photo": "/images/board/prasad.jpg"
     }
   ],
-
   "advisory": [
     {
       "id": 201,
@@ -34,7 +32,6 @@
       "bio": "Provides strategic guidance and supports cultural initiatives."
     }
   ],
-
   "volunteers": [
     {
       "id": 301,
@@ -48,7 +45,5 @@
       "role": "Kids Program Volunteer",
       "photo": "/images/board/priya.jpg"
     }
-  ],
-
-  "honorary": [
-    {
+  ]
+}
