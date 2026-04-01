@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Ugadi Celebrations",
+    "date": "2026-04-10",
+    "location": "Hamburg",
+    "description": "Cultural programs, food, and celebrations.",
+    "category": "Cultural"
+  },
+  {
+    "id": 2,
+    "title": "Kids Drawing Competition",
+    "date": "2026-05-01",
+    "location": "Berlin",
+    "description": "Drawing competition for kids aged 5–12.",
+    "category": "Kids"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "current": [
+    {
+      "id": 1,
+      "name": "Ravi Kumar",
+      "role": "Chairperson",
+      "term": "2024–2027",
+      "email": "ravi.kumar@tch-community.de",
+      "photo": "/images/board/ravi.jpg",
+      "bio": "Ravi leads the Telugu Community Germany e.V. with a focus on cultural preservation and community growth.",
+      "social": {
+        "linkedin": "https://linkedin.com/in/ravikumar",
+        "facebook": "https://facebook.com/ravi.kumar"
+      }
+    }
+  ],
+
+  "former": [
+    {
+      "id": 101,
+      "name": "Prasad Varma",
+      "role": "Former Chairperson",
+      "term": "2020–2024",
+      "photo": "/images/board/prasad.jpg"
+    }
+  ],
+
+  "advisory": [
+    {
+      "id": 201,
+      "name": "Dr. Shankar Rao",
+      "role": "Advisory Committee Member",
+      "photo": "/images/board/shankar.jpg",
+      "bio": "Provides strategic guidance and supports cultural initiatives."
+    }
+  ],
+
+  "volunteers": [
+    {
+      "id": 301,
+      "name": "Kiran Kumar",
+      "role": "Event Volunteer",
+      "photo": "/images/board/kiran.jpg"
+    },
+    {
+      "id": 302,
+      "name": "Priya Sharma",
+      "role": "Kids Program Volunteer",
+      "photo": "/images/board/priya.jpg"
+    }
+  ],
+
+  "honorary": [
+    {
